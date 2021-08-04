@@ -1,4 +1,5 @@
 # Guess-My-Number
+# `JavaScript course Udemy`
 > A small famous game. Player will guess the secret number and the score will decrease each time answer wrong
 > 
 > plain javascript, html, css
