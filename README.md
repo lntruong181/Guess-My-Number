@@ -1,8 +1,8 @@
 # Guess-My-Number
+> A game using plain javascript, html, css
+> A small famous game. Player will guess the secret number and the score will decrease each time answer wrong
 
-A small famous game. Player will guess the secret number and the score will decrease each time answer wrong
-
-
+### `Author: Truong OT`
 
 Layout game
 
