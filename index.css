@@ -94,6 +94,7 @@ h1 {
   display: block;
   margin-bottom: 3rem;
   outline: none;
+  overflow: auto;
 }
 
 .btn {
